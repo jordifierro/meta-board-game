@@ -1,2 +1,7 @@
 # meta-board-game
-Basic template to create board games
+## What is meta board game?
+## Aims
+## Playable games
+## Set of components
+## Contribute
+
