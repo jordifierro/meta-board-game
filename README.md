@@ -13,12 +13,20 @@ two of them dark and two of them light,
 each disposed diagonally from its pair (like chess board).
 * In one side of the tile there is a neutral color,
 and on the other there is an specific color.
+![Red tile example](/base/tile.png)
+
 * There are 9 different colors:
 black, white, gold, silver, brown, red, blue, green and violet.
+![Colors palette](/base/colors.jpg)
+
 * Each color has 4 tiles,
 so there are a total of 36 tiles
 (can form a 6x6 board,
 which can also be a 24x24 if you count the tile inner squares).
+
+Red tile example:
+
+
 
 #### Tokens
 
