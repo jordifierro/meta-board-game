@@ -18,16 +18,18 @@ black, white, gold, silver, brown, red, blue, green and violet.
 * Each color has 4 tiles,
 so there are a total of 36 tiles
 (can form a 6x6 board,
-which can also be a 24x24 if you count the tiles inner squares).
+which can also be a 24x24 if you count the tile inner squares).
 
 #### Tokens
 
 * There are 4 types of tokens:
-cubes, cylinders, tetrahedron (triangular-based pyramid) and pawns.
+cubes, cylinders, tetrahedrons (triangular-based pyramid) and pawns.
 * Tetrahedron tokens have two faces forming an angle of 90 between them
 (they are like an squared pyramid diagonally split).
 * There are 10 tokens of each type for each color,
 except for the pawn that has only one for color.
+* There are a total of 10x9 cubes + 10x9 tetrahedrons +
+10x9 cylinders + 9 pawns = 279 tokens.
 
 #### Dice
 
