@@ -16,7 +16,7 @@ and on the other there is an specific color.
 ![Red tile example](/base/tile.png)
 
 * There are 9 different colors:
-black, white, gold, silver, brown, red, blue, green and violet.
+gold, silver, brown, red, green, blue, violet, white and black.
 ![Colors palette](/base/colors.jpg)
 
 * Each color has 4 tiles,
