@@ -22,7 +22,7 @@ gold, silver, brown, red, green, blue, violet, white and black.
 * Each color has 4 tiles,
 so there are a total of 36 tiles
 (can form a 6x6 board,
-which can also be a 24x24 if you count the tile inner squares).
+which can also be a 12x12 if you count the tile inner squares).
 
 Red tile example:
 
